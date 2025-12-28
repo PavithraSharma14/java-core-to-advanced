@@ -1,6 +1,6 @@
 # 🧠 Practice Questions — Variables & Data Types
 
-These questions will help you practice:
+These questions will help you practice: <br>
 ✔ Variables  
 ✔ Data Types  
 ✔ Basic Input  
@@ -55,11 +55,13 @@ short s = 512;
 int i = 1000;
 float f = 3.14f;
 double d = 99.9954;
-
 result = (f * b) + (i % c) - (d * s);
+```
 
 👉 Hint: 
 Look at the largest data type involved.
+
+---
 
 ## ✍ Question 5 (Advanced)
 
@@ -67,7 +69,9 @@ Will this statement cause an error in Java?
 
 ```java
 int $ = 24;
+```
 
+---
 ## 📌 Note
 
 These questions are meant to build Java logic step-by-step.
