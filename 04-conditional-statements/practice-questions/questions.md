@@ -20,9 +20,6 @@ public class Solution {
 ```
 
 ## Question 3
-Write a Java program to input week number (1–7) and print the day of the week using switch.
-
-## Question 4
 What will be the value of x and y in the following program?
 
 ```java 
@@ -36,5 +33,5 @@ public class Solution {
 }
 ```
 
-## Question 5
+## Question 4
 Write a Java program that takes a year from the user and prints whether that year is a leap year or not.
