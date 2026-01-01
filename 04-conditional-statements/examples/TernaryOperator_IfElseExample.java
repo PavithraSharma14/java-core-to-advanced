@@ -1,5 +1,5 @@
 // Program: Check whether a number is even or odd using ternary operator
-public class TernaryOperatorDemo {
+public class TernaryOperator_IfElseExample {
     public static void main(String[] args) {
 
         int num = 10;  // example number
