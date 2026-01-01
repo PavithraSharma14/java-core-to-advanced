@@ -1,17 +1,25 @@
 name: Basic Checks
 
 on:
-  pull_request:
   push:
+  pull_request:
 
 jobs:
   run-checks:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
       - name: Setup Java
         uses: actions/setup-java@v3
         with:
           java-version: '17'
-      - name: Compile
-        run: javac $(find . -name "*.java")
+          distribution: 'temurin'
+
+      - name: Compile all Java files
+        run: |
+          find . -name "*.java" > sources.txt
+          javac @sources.txt
+
