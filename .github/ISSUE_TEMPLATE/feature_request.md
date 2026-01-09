@@ -1,12 +1,13 @@
 ---
 name: Feature Request
-about: Suggest a new feature
+about: Propose a new example/practice topic
 title: "[FEATURE]"
 labels: enhancement
 ---
 
-## What feature do you want?
+## What new feature/topic do you want?
 
-## Why is it needed?
+## Why is it useful?
 
 ## Additional Context
+
