@@ -1,59 +1,71 @@
-# 🧠 Java — Core to Advanced
+# Java Core to Advanced
 
-![Stars](https://img.shields.io/github/stars/PavithraSharma14/java-core-to-advanced?style=flat)
-![Last Commit](https://img.shields.io/github/last-commit/PavithraSharma14/java-core-to-advanced?style=flat)
-![Repo Size](https://img.shields.io/github/repo-size/PavithraSharma14/java-core-to-advanced?style=flat)
-![Status](https://img.shields.io/badge/learning-in%20progress-blue)
+![Java](https://img.shields.io/badge/Java-17-blue)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![License](https://img.shields.io/github/license/PavithraSharma14/java-core-to-advanced)
+![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen)
 
-A clean and structured journey through **Java & Data Structures/Algorithms** — from core fundamentals to advanced problem-solving.
+A structured Java learning repository covering core concepts, problem-solving,
+and foundational Data Structures with clean examples and practice questions.
 
 ---
 
-## 📌 Roadmap (Simple & Clear)
+## 📌 What This Repository Contains
+- Topic-wise Java programs with clear explanations
+- Practice questions with solutions
+- Consistent folder structure across topics
+- Beginner-friendly and revision-ready code
 
-### 🔹 Core Java
-- Variables & Data Types  
-- Operators  
-- Conditions & Loops  
-- Methods  
+---
 
-### 🔹 Essential Topics
-- Arrays  
-- Strings  
-- Recursion  
-- Sorting  
+## 📚 Topics Covered
+- 01 Basics  
+- 02 Variables and Data Types  
+- 03 Operators  
+- 04 Conditional Statements  
+- 05 Loops  
+- 06 Pattern Programs  
+- 07 Functions and Methods  
 
-### 🔹 OOP
-- Classes & Objects  
-- Inheritance  
-- Polymorphism  
-- Abstraction & Encapsulation  
+---
 
-### 🔹 Data Structures & Algorithms
-- Linked List  
-- Stack & Queue  
-- Trees  
-- Hashing  
-- Graphs  
-- Dynamic Programming  
+## 🚧 Planned Topics
+- Arrays
+- Strings
+- Recursion
+- Object-Oriented Programming (OOP)
+- Data Structures and Algorithms (DSA)
 
 ---
 
 ## 📂 Folder Structure
-
-java-core-to-advanced/<br>
- ├── basics/<br>
- ├── arrays/<br>
- ├── strings/<br>
- ├── recursion/<br>
- ├── oops/<br>
- ├── dsa/<br>
- └── README.md<br>
+Each topic follows the same structure:
+topic-name/<br>
+├── examples/<br>
+├── practice-questions/<br>
+│ ├── questions.md<br>
+│ └── solutions/<br>
+└── README.md<br>
 
 ---
 
-## 🎯 Goal
-Write **clean, readable Java code** and build strong problem-solving foundations — step by step.
+## ▶️ How to Run
 
-⭐ If you find this repo useful, consider starring it!
+```java
+javac FileName.java
+java FileName
+```
+---
+
+## 🤝 Contributions
+Contributions, improvements, and pull requests are welcome.
+Please keep code clean and well-documented.
+
+---
+
+## 📄 License
+This project is licensed under the MIT License.
+
+
+
 
