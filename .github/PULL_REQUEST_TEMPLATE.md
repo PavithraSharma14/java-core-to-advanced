@@ -1,17 +1,16 @@
-## Description
+---
+name: Pull Request
+about: Describe your changes and link to related issues
+---
+
+## 📌 Description
 Explain what this PR does.
 
-## Type of Change
-- [ ] Bug fix
-- [ ] New feature
-- [ ] Documentation update
-- [ ] Refactor
+## 🔗 Related Issue
+Closes # (issue number)
 
-## Checklist
-- [ ] My code follows the project guidelines
-- [ ] I have commented my code
-- [ ] I have updated README if needed
-- [ ] I have tested the code
+## 🧠 Checklist
+- [ ] Code follows project structure
+- [ ] Comments added for beginners
+- [ ] Examples run and compile
 
-## Related Issue
-Link issue here
