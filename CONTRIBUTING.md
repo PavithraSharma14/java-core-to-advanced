@@ -1,39 +1,38 @@
-# Contributing Guide 🙌
+# Contributing to Java Core to Advanced
 
-Thanks for your interest in contributing!
+Thank you for your interest in improving this learning repository!
 
-This repository is meant to help beginners learn Java in a clean and structured way. 
-So please follow these rules:
+## How to Contribute
 
-## 🧭 Folder Structure
-✔ Every topic has:
-- examples/
-- practice-questions/
-- README.md
+### 1️⃣ Report a Bug / Suggest Feature
+- Open a new **Issue**
+- Choose the right issue template (`bug_report` or `feature_request`)
+- Provide clear details, steps, and expected output
 
-Please keep the same format.
-
-## 📝 Coding Guidelines
-✔ Use clear variable names  
-✔ Add comments to explain logic  
-✔ Keep examples beginner-friendly  
-✔ No unnecessary complexity  
-
-## Steps to Contribute
+### 2️⃣ Submit Changes
 1. Fork the repo
-2. Create a new branch
-   git checkout -b feature-name
-3. Commit your changes
-   git commit -m "feat: add feature name"
-4. Push the branch
-   git push origin feature-name
-5. Open a Pull Request
+2. Create a descriptive branch: <br>
+git checkout -b feat/topic-name
+3. Make sure examples are commented and clear
+4. Add practice questions + solutions
+5. Commit with a conventional message <br>
+feat: add ... or fix: correct ...
+6. Push your branch <br>
+git push origin feat/topic-name
+7. Create a Pull Request
 
+### Coding Guidelines
+⚡ Use consistent naming  
+⚡ Add clear comments to novice-friendly code  
+⚡ Follow existing structure exactly
 
-## ❌ PRs That Will Be Rejected
-🚫 Copied code from the internet  
-🚫 Spam / irrelevant changes  
-🚫 No comments  
-🚫 Breaking folder structure  
+### What We *Might* Reject
+❌ Large structural changes without discussion  
+❌ Copy-pasted code from Internet without attribution  
+❌ Code without explanation or comments
 
-Let’s build a high-quality Java resource together 🚀
+## Need Help?
+If you’re unsure where to start, check issues labeled **good first issue** or open a discussion!
+
+Thanks for making this repo better 🚀
+
