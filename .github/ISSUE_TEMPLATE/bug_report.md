@@ -1,6 +1,6 @@
 ---
 name: Bug Report
-about: Report a bug to help improve the project
+about: Report a bug in code or examples
 title: "[BUG]"
 labels: bug
 ---
@@ -9,8 +9,8 @@ labels: bug
 A clear description of the bug.
 
 ## Steps to Reproduce
-1.
-2.
+1. 
+2. 
 3.
 
 ## Expected Behavior
@@ -20,5 +20,3 @@ A clear description of the bug.
 ## Environment
 - OS:
 - Java Version:
-
-## Additional Context
