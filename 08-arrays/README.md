@@ -11,9 +11,9 @@ This section is designed to build a **strong, step-by-step understanding** of ar
 
 ## 📂 Folder Structure
 
-Arrays/
-├── Part-1/ → Fundamentals + basic problems
-├── Part-2/ → Intermediate & advanced array problems
+Arrays/<br>
+├── Part-1/ → Fundamentals + basic problems<br>
+├── Part-2/ → Intermediate & advanced array problems<br>
 
 
 ## 🧠 Learning Approach
