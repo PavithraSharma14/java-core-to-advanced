@@ -25,12 +25,12 @@ and foundational Data Structures with clean examples and practice questions.
 - 04 Conditional Statements  
 - 05 Loops  
 - 06 Pattern Programs  
-- 07 Functions and Methods  
+- 07 Functions and Methods 
+- 08 Arrays
 
 ---
 
 ## 🚧 Planned Topics
-- Arrays
 - Strings
 - Recursion
 - Object-Oriented Programming (OOP)
