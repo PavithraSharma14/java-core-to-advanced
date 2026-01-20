@@ -78,7 +78,7 @@ This ensures traversal of all elements in the matrix.
 
 Searching techniques include:
   - Linear search (checking every element)
-  - Optimized search for sorted matrices
+  - Optimized search for sorted matrices<br>
 Time Complexity:
   - Linear search: O(rows × columns)
 ---
@@ -101,20 +101,20 @@ arr[2] = new int[4];
 ---
 
 ## 📐 Important 2D Array Problems
-🔁 Spiral Matrix
+## 🔁 Spiral Matrix
 
 - Traverses the matrix in spiral order
 - Uses boundary variables to control traversal
 - Time Complexity: O(rows × columns)
 - Space Complexity: O(1) (excluding output)
 
-➕ Diagonal Sum
+## ➕ Diagonal Sum
 
 - Calculates sum of primary and secondary diagonals
 - Avoids double counting the middle element
 - Time Complexity: O(n)
 
-🔎 Search in Sorted Matrix
+## 🔎 Search in Sorted Matrix
 
 - Matrix sorted row-wise and column-wise
 - Efficient search starting from top-right or bottom-left
@@ -126,10 +126,10 @@ arr[2] = new int[4];
 
 Practice problems are included to reinforce learning.
 
-Location:
-practice-questions/
-├── questions.md
-└── solutions/
+Location:<br>
+practice-questions/<br>
+├── questions.md<br>
+└── solutions/<br>
 
 Covered problems:
 - Spiral Matrix
