@@ -27,4 +27,17 @@ Arrays/<br>
 ## 🎯 Goal
 To make array concepts **interview-ready**, not just syntactically correct.
 
+## 🧪 Practice Coverage
+
+All array-related practice problems are implemented directly within:
+- Arrays Part 1 (Fundamentals & basic problems)
+- Arrays Part 2 (Optimization & advanced problems)
+
+Each problem includes:
+- Clean Java implementation
+- Clear logic explanation
+- Time and space complexity analysis
+
+No separate practice folder is maintained to avoid duplication.
+
 ➡️ Start with **Part-1** to build a solid foundation.
