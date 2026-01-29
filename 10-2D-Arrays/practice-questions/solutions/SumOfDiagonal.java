@@ -8,7 +8,7 @@
  * Space Complexity: O(1)
  */
 
-public class DiagonalSum {
+public class SumOfDiagonal {
 
     public static int diagonalSum(int[][] matrix) {
 
