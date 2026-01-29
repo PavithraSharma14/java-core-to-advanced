@@ -7,28 +7,28 @@ The focus is on **clarity, problem-solving, and efficient string handling.**
 
 ## Topics Covered
 
-🔹 Basics
+**🔹 Basics**
 - What are Strings in Java
 - Input and Output with Strings
 - Length of a String
 - String Concatenation
 
-🔹 String Functions
+**🔹 String Functions**
 - Comparing Strings (compareTo)
 - Extracting Substrings (substring)
 
-🔹 Important Problems
+**🔹 Important Problems**
 - Palindrome Check
 - Shortest Path Problem
 - Finding the Largest String
 - Converting Letters to Uppercase
 - String Compression
 
-🔹 Immutability & Optimization
+**🔹 Immutability & Optimization**
 - Why Strings are Immutable in Java
 - Using StringBuilder for Efficient Modifications
 
-🔹 Practice Questions
+**🔹 Practice Questions**
 - Reverse a String
 - Count Vowels in a String
 - Check if Two Strings are Anagrams
