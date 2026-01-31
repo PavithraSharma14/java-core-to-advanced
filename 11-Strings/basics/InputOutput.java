@@ -1,4 +1,3 @@
-package basics;
 /*
  * Topic: Input and Output with Strings
  *

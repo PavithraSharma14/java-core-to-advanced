@@ -1,4 +1,3 @@
-package basics;
 /*
  * Topic: Length of a String
  *
