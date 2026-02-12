@@ -7,7 +7,7 @@
  * Instead of treating numbers as whole values,
  * we work on individual bits (0s and 1s).
  */
-public class Introduction {
+public class BitManipulationIntroduction {
 
     public static void main(String[] args) {
 
