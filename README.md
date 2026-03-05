@@ -1,7 +1,7 @@
 # 🚀 Java Core to Advanced
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/PavithraSharma14/java-core-to-advanced?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/PavithraSharma14/java-core-to-advanced.svg?style=for-the-badge" />
   <img src="https://img.shields.io/github/forks/PavithraSharma14/java-core-to-advanced?style=for-the-badge" />
   <img src="https://img.shields.io/github/license/PavithraSharma14/java-core-to-advanced?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Java-17+-blue?style=for-the-badge&logo=java" />
