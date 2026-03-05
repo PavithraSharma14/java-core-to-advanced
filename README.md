@@ -263,11 +263,11 @@ MIT License
 
 ---
 
-# 👩‍💻 Author
+## ⭐ If You Find This Helpful
 
-**Pavithra Sharma**
+If this repository helped you understand Java concepts, consider giving it a ⭐.
 
-If this repository helps you, consider ⭐ starring it.
+It helps the repository reach more learners.
 
 
 
