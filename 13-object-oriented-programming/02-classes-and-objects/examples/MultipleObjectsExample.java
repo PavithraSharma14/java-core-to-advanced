@@ -5,7 +5,7 @@
  * Each object maintains its own state (data).
  */
 
-class Student {
+class MultiStudent {
 
     String name;
     int age;
@@ -19,17 +19,14 @@ public class MultipleObjectsExample {
 
     public static void main(String[] args) {
 
-        // First object
-        Student s1 = new Student();
+        MultiStudent s1 = new MultiStudent();
         s1.name = "Pavithra";
         s1.age = 21;
 
-        // Second object
-        Student s2 = new Student();
+        MultiStudent s2 = new MultiStudent();
         s2.name = "Rahul";
         s2.age = 22;
 
-        // Each object behaves independently
         s1.display();
         s2.display();
     }

@@ -5,7 +5,7 @@
  * and how its fields and methods are accessed.
  */
 
-class Student {
+class ObjectStudent {
 
     String name;
     int age;
@@ -22,7 +22,7 @@ public class ObjectCreationExample {
     public static void main(String[] args) {
 
         // Object creation using 'new'
-        Student s1 = new Student();
+        ObjectStudent s1 = new ObjectStudent();
 
         // Assigning values to object fields
         s1.name = "Pavithra";
