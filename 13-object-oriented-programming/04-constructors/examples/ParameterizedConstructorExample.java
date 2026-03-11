@@ -3,12 +3,12 @@
  * Allows initializing objects with specific values.
  */
 
-class Student {
+class ParameterizedStudent {
 
     String name;
     int age;
 
-    Student(String name, int age) {
+    ParameterizedStudent(String name, int age) {
         this.name = name;
         this.age = age;
     }
@@ -18,7 +18,7 @@ public class ParameterizedConstructorExample {
 
     public static void main(String[] args) {
 
-        Student s = new Student("Pavithra", 21);
+        ParameterizedStudent s = new ParameterizedStudent("Pavithra", 21);
 
         System.out.println(s.name + " - " + s.age);
     }

@@ -3,7 +3,7 @@
  * and public getter/setter methods.
  */
 
-class Student {
+class EncapsulatedStudent {
 
     private String name;
     private int age;
@@ -29,7 +29,7 @@ public class BasicEncapsulationExample {
 
     public static void main(String[] args) {
 
-        Student s = new Student();
+        EncapsulatedStudent s = new EncapsulatedStudent();
 
         s.setName("Pavithra");
         s.setAge(21);

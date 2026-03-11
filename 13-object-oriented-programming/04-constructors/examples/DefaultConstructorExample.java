@@ -3,11 +3,11 @@
  * A constructor with no parameters.
  */
 
-class Student {
+class DefaultStudent {
 
     String name;
 
-    Student() {
+    DefaultStudent() {
         name = "Unknown";
     }
 }
@@ -16,8 +16,7 @@ public class DefaultConstructorExample {
 
     public static void main(String[] args) {
 
-        Student s = new Student();
-
+        DefaultStudent s = new DefaultStudent();
         System.out.println("Name: " + s.name);
     }
 }
