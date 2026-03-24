@@ -3,7 +3,7 @@
  * Same method name, different parameter lists
  * Decided at compile-time
  */
-class Calculator {
+class CalculatorOverLoading {
 
     // Method with 2 integers
     int add(int a, int b) {
@@ -23,7 +23,7 @@ class Calculator {
 
 public class MethodOverloadingDemo {
     public static void main(String[] args) {
-        Calculator calc = new Calculator();
+        CalculatorOverLoading calc = new CalculatorOverLoading();
 
         // Calling different versions of add()
         System.out.println(calc.add(2, 3));        // 2 int
