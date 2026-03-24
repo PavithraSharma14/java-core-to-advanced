@@ -3,19 +3,19 @@
  * Chain of inheritance (Grandparent → Parent → Child)
  */
 
-class Animal {
+class AnimalMulti {
     void eat() {
         System.out.println("Animal eats");
     }
 }
 
-class Dog extends Animal {
+class DogMulti extends AnimalMulti {
     void bark() {
         System.out.println("Dog barks");
     }
 }
 
-class Puppy extends Dog {
+class PuppyMulti extends DogMulti {
     void play() {
         System.out.println("Puppy plays");
     }
@@ -23,7 +23,7 @@ class Puppy extends Dog {
 
 public class MultilevelInheritanceDemo {
     public static void main(String[] args) {
-        Puppy p = new Puppy();
+        PuppyMulti p = new PuppyMulti();
 
         p.eat();
         p.bark();

@@ -3,19 +3,19 @@
  * Multiple child classes inherit from one parent class
  */
 
-class Animals {
+class AnimalHier {
     void eat() {
         System.out.println("Animal eats");
     }
 }
 
-class Dogs extends Animals {
+class DogHier extends AnimalHier {
     void bark() {
         System.out.println("Dog barks");
     }
 }
 
-class Cats extends Animals {
+class CatHier extends AnimalHier {
     void meow() {
         System.out.println("Cat meows");
     }
@@ -23,8 +23,8 @@ class Cats extends Animals {
 
 public class HierarchicalInheritanceDemo {
     public static void main(String[] args) {
-        Dogs d = new Dogs();
-        Cats c = new Cats();
+        DogHier d = new DogHier();
+        CatHier c = new CatHier();
 
         d.eat();
         d.bark();

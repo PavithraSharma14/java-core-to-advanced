@@ -3,13 +3,13 @@
  * One child class inherits from one parent class
  */
 
-class Animal {
+class AnimalSingle {
     void eat() {
         System.out.println("Animal eats food");
     }
 }
 
-class Dog extends Animal {
+class DogSingle extends AnimalSingle {
     void bark() {
         System.out.println("Dog barks");
     }
@@ -17,7 +17,7 @@ class Dog extends Animal {
 
 public class SingleInheritanceDemo {
     public static void main(String[] args) {
-        Dog dog = new Dog();
+        DogSingle dog = new DogSingle();
 
         // Accessing parent method
         dog.eat();
