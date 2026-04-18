@@ -1,4 +1,4 @@
-package com.pavithra.util;
+package util;
 
 /**
  * Utility class for basic calculations
