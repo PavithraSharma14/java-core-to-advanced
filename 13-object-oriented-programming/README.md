@@ -65,17 +65,14 @@ This module is structured progressively:
 
 1. Introduction to OOP
 2. Classes and Objects
-3. Access Modifiers
-4. Encapsulation
-5. Constructors
-6. Copy Mechanisms (Shallow vs Deep Copy)
-7. Inheritance
-8. Polymorphism
-9. Abstraction
-10. Interfaces
-11. Packages
-12. Static and Super
-13. Object Class and Internals
+3. Encapsulation
+4. Constructors
+5. Copy Mechanisms (Shallow vs Deep Copy)
+6. Inheritance
+7. Polymorphism
+8. Abstraction
+9. Interfaces
+10. keywords
 
 Each topic includes:
 - Theory
