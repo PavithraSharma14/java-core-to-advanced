@@ -211,7 +211,7 @@ Do not skip complexity + recursion before advanced topics.
 | Stage | Topic | Status |
 |-------|--------|--------|
 | 1 | Basics | ✅ Completed |
-| 2 | OOP | 🔄 Next |
+| 2 | OOP | ✅ Completed |
 | 3 | Time & Space | ⏳ Planned |
 | 4 | Recursion | ⏳ Planned |
 | 5 | DSA | ⏳ In Progress |
