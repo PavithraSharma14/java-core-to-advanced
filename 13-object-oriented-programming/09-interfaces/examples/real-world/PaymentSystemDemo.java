@@ -4,17 +4,17 @@
  * User doesn't care HOW payment works
  */
 
-interface Payment {
+interface PaymentInterface {
     void pay(double amount);
 }
 
-class UPIPayment implements Payment {
+class UPIPaymentInterface implements PaymentInterface {
     public void pay(double amount) {
         System.out.println("Paid via UPI: " + amount);
     }
 }
 
-class CardPayment implements Payment {
+class CardPaymentInterface implements PaymentInterface {
     public void pay(double amount) {
         System.out.println("Paid via Card: " + amount);
     }
@@ -24,12 +24,12 @@ public class PaymentSystemDemo {
 
     public static void main(String[] args) {
 
-        Payment p;
+        PaymentInterface p;
 
-        p = new UPIPayment();
+        p = new UPIPaymentInterface();
         p.pay(500);
 
-        p = new CardPayment();
+        p = new CardPaymentInterface();
         p.pay(1000);
     }
 }

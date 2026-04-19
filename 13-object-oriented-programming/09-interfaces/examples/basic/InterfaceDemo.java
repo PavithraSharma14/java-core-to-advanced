@@ -1,14 +1,14 @@
 /**
  * Interface = blueprint (only method declarations)
  */
-interface Animal {
+interface AnimalInterface {
 
     // abstract method (no body)
     void sound();
 }
 
 // Class implementing interface
-class Dog implements Animal {
+class DogInterface implements AnimalInterface {
 
     // MUST implement method
     public void sound() {
@@ -20,7 +20,7 @@ public class InterfaceDemo {
 
     public static void main(String[] args) {
 
-        Animal a = new Dog(); // polymorphism
+        AnimalInterface a = new DogInterface(); // polymorphism
         a.sound();
     }
 }
