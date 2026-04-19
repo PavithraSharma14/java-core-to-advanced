@@ -20,7 +20,7 @@ class CardPaymentInterface implements PaymentInterface {
     }
 }
 
-public class PaymentSystemDemo {
+public class PaymentSystem {
 
     public static void main(String[] args) {
 

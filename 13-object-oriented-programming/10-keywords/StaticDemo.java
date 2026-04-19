@@ -2,14 +2,14 @@
  * static = shared across all objects
  */
 
-class Student {
+class StudentStatic {
 
     String name;
 
     // shared variable
     static String college = "ABC College";
 
-    Student(String name) {
+    StudentStatic(String name) {
         this.name = name;
     }
 
@@ -22,8 +22,8 @@ public class StaticDemo {
 
     public static void main(String[] args) {
 
-        Student s1 = new Student("Pavithra");
-        Student s2 = new Student("Vaishnavi");
+        StudentStatic s1 = new StudentStatic("Pavithra");
+        StudentStatic s2 = new StudentStatic("Vaishnavi");
 
         s1.display();
         s2.display();

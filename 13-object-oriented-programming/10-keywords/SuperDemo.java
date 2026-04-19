@@ -2,9 +2,9 @@
  * super = refers to parent class
  */
 
-class Animal {
+class AnimalSuper {
 
-    Animal() {
+    AnimalSuper() {
         System.out.println("Animal constructor");
     }
 
@@ -13,9 +13,9 @@ class Animal {
     }
 }
 
-class Dog extends Animal {
+class DogSuper extends AnimalSuper {
 
-    Dog() {
+    DogSuper() {
         super(); // call parent constructor
         System.out.println("Dog constructor");
     }
@@ -30,7 +30,7 @@ public class SuperDemo {
 
     public static void main(String[] args) {
 
-        Dog d = new Dog();
+        DogSuper d = new DogSuper();
         d.sound();
     }
 }
