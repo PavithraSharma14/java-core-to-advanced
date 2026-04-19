@@ -23,7 +23,7 @@ public class StaticDemo {
     public static void main(String[] args) {
 
         Student s1 = new Student("Pavithra");
-        Student s2 = new Student("Rahul");
+        Student s2 = new Student("Vaishnavi");
 
         s1.display();
         s2.display();
