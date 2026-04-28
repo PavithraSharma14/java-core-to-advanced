@@ -6,7 +6,7 @@ APPROACH:
 Remove one character each time and count.
 */
 
-public class StringLength {
+public class StringLengthSolution {
 
     public static int length(String str) {
         if (str.length() == 0) {
