@@ -8,7 +8,7 @@ If match → print index.
 Continue recursion till end.
 */
 
-public class AllOccurrences {
+public class AllOccurrencesSolution {
 
     public static void printAll(int[] arr, int key, int i) {
         if (i == arr.length) {
