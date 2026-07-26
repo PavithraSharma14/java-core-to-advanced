@@ -8,239 +8,316 @@
   <img src="https://img.shields.io/badge/Level-Beginner_to_Advanced-success?style=for-the-badge" />
 </p>
 
-> A structured, step-by-step roadmap to master Java from fundamentals to advanced Data Structures & Algorithms — with clean implementations and interview-focused practice.
+<p align="center">
+A structured, interview-focused Java & Data Structures and Algorithms repository designed to help learners progress from core Java fundamentals to advanced problem-solving through clean code, detailed explanations, and practical implementations.
+</p>
 
 ---
 
-# 👋 Who Is This For?
+# 📌 Repository Highlights
 
-✔ Beginners starting Java  
-✔ Students preparing for placements  
-✔ Developers strengthening fundamentals  
-✔ Interview preparation  
-✔ Anyone who prefers structured learning  
-
-This is not random code.  
-This is organized progression.
-
----
-
-# 🗺 Complete Java + DSA Learning Roadmap
-
-```
-START
-  │
-  ▼
-┌──────────────────────────┐
-│ 01. Java Basics          │
-│ Variables, Loops, Arrays │
-└──────────────────────────┘
-  │
-  ▼
-┌──────────────────────────┐
-│ 02. OOP (Core Java)      │
-│ Classes, Inheritance     │
-│ Polymorphism, Interfaces │
-└──────────────────────────┘
-  │
-  ▼
-┌──────────────────────────┐
-│ 03. Time & Space         │
-│ Big-O, Complexity        │
-└──────────────────────────┘
-  │
-  ▼
-┌──────────────────────────┐
-│ 04. Recursion            │
-│ Call Stack, Base Case    │
-└──────────────────────────┘
-  │
-  ▼
-┌──────────────────────────┐
-│ 05. Divide & Conquer     │
-│ Merge Sort, Quick Sort   │
-└──────────────────────────┘
-  │
-  ▼
-┌──────────────────────────┐
-│ 06. Linear DS            │
-│ ArrayList, LinkedList    │
-│ Stack, Queue             │
-└──────────────────────────┘
-  │
-  ▼
-┌──────────────────────────┐
-│ 07. Hashing              │
-│ HashMap, HashSet         │
-└──────────────────────────┘
-  │
-  ▼
-┌──────────────────────────┐
-│ 08. Trees                │
-│ Binary Tree, BST, Heaps  │
-└──────────────────────────┘
-  │
-  ▼
-┌──────────────────────────┐
-│ 09. Greedy & Backtracking│
-└──────────────────────────┘
-  │
-  ▼
-┌──────────────────────────┐
-│ 10. Graphs               │
-│ BFS, DFS, Topo Sort      │
-└──────────────────────────┘
-  │
-  ▼
-┌──────────────────────────┐
-│ 11. Dynamic Programming  │
-│ Memoization, Tabulation  │
-└──────────────────────────┘
-  │
-  ▼
-┌──────────────────────────┐
-│ 12. Advanced Structures  │
-│ Tries, Segment Trees     │
-└──────────────────────────┘
-  │
-  ▼
-🎯 INTERVIEW READY
-```
+* 📚 Structured Java + DSA learning roadmap
+* 💻 Clean, well-commented Java implementations
+* 🧠 Interview-focused explanations
+* 📈 Progressive learning from Beginner to Advanced
+* ⚡ Time & Space Complexity analysis
+* 🧪 Practice problems with solutions
+* 📝 Well-documented README for every topic
 
 ---
 
-# 📂 Repository Structure
+# 👋 Who Is This Repository For?
 
+✅ Beginners learning Java
+
+✅ Students preparing for placements
+
+✅ Developers strengthening DSA fundamentals
+
+✅ Coding interview preparation
+
+✅ Anyone who prefers structured, topic-wise learning
+
+---
+
+# 🗺️ Learning Roadmap
+
+```text
+Java Basics
+      │
+      ▼
+Variables & Data Types
+      │
+      ▼
+Operators
+      │
+      ▼
+Conditional Statements
+      │
+      ▼
+Loops & Flow Control
+      │
+      ▼
+Pattern Programs
+      │
+      ▼
+Functions & Methods
+      │
+      ▼
+Arrays
+      │
+      ▼
+Sorting
+      │
+      ▼
+2D Arrays
+      │
+      ▼
+Strings
+      │
+      ▼
+Bit Manipulation
+      │
+      ▼
+OOP
+      │
+      ▼
+Recursion
+      │
+      ▼
+Divide & Conquer
+      │
+      ▼
+Time & Space Complexity
+      │
+      ▼
+ArrayList
+      │
+      ▼
+Linked List
+      │
+      ▼
+Stack
+      │
+      ▼
+Queue
+      │
+      ▼
+Hashing
+      │
+      ▼
+Trees
+      │
+      ▼
+BST
+      │
+      ▼
+Heaps
+      │
+      ▼
+Greedy Algorithms
+      │
+      ▼
+Backtracking
+      │
+      ▼
+Graphs
+      │
+      ▼
+Dynamic Programming
+      │
+      ▼
+Tries
+      │
+      ▼
+Segment Trees
+      │
+      ▼
+🎯 Interview Ready
 ```
+
+---
+
+# 📖 What's Inside Each Topic?
+
+Every folder in this repository contains:
+
+* ✅ Concept explanation
+* ✅ Clean Java implementation
+* ✅ Well-structured comments
+* ✅ Time & Space Complexity
+* ✅ Dry run / execution flow
+* ✅ Interview notes
+* ✅ Practice problems
+* ✅ Solutions with explanations
+
+---
+
+# 📊 Repository Progress
+
+| Topic                         | Status         |
+| ----------------------------- | -------------- |
+| Basics                        | ✅ Completed    |
+| Variables & Data Types        | ✅ Completed    |
+| Operators                     | ✅ Completed    |
+| Conditional Statements        | ✅ Completed    |
+| Loops & Flow Control          | ✅ Completed    |
+| Pattern Programs              | ✅ Completed    |
+| Functions & Methods           | ✅ Completed    |
+| Arrays                        | ✅ Completed    |
+| Sorting                       | ✅ Completed    |
+| 2D Arrays                     | ✅ Completed    |
+| Strings                       | ✅ Completed    |
+| Bit Manipulation              | ✅ Completed    |
+| OOP                           | ✅ Completed    |
+| Recursion                     | ✅ Completed    |
+| Divide & Conquer              | ✅ Completed    |
+| Time & Space Complexity       | 🚧 In Progress |
+| Remaining Advanced DSA Topics | ⏳ Planned      |
+
+---
+
+<details>
+
+<summary><b>📂 Repository Structure</b></summary>
+
+```text
 java-core-to-advanced/
-│
-├── 01-basics/
-├── 02-variables-and-data-types/
-├── 03-operators/
-├── 04-conditional-statements/
-├── 05-loops-and-flow-control/
-├── 06-pattern-programs/
-├── 07-functions-and-methods/
-├── 08-arrays/
-├── 09-sorting/
-├── 10-2d-arrays/
-├── 11-strings/
-├── 12-bit-manipulation/
-│
-├── 13-oops/
-├── 14-time-and-space-complexity/
-├── 15-recursion/
-├── 16-divide-and-conquer/
-├── 17-arraylist/
-├── 18-linked-list/
-├── 19-stack/
-├── 20-queue/
-├── 21-hashing/
-├── 22-binary-trees/
-├── 23-bst/
-├── 24-heaps/
-├── 25-greedy/
-├── 26-backtracking/
-├── 27-graphs/
-├── 28-dynamic-programming/
-├── 29-tries/
-├── 30-segment-trees/
-│
-└── README.md
+
+01_basics/
+02_variables_and_data_types/
+03_operators/
+04_conditional_statements/
+05_loops_and_flow_control/
+06_pattern_programs/
+07_functions_and_methods/
+08_arrays/
+09_sorting/
+10_2d_arrays/
+11_strings/
+12_bit_manipulation/
+13_oops/
+14_recursion/
+15_divide_and_conquer/
+16_time_and_space_complexity/
+17_arraylist/
+18_linked_list/
+19_stack/
+20_queue/
+21_hashing/
+22_binary_trees/
+23_bst/
+24_heaps/
+25_greedy/
+26_backtracking/
+27_graphs/
+28_dynamic_programming/
+29_tries/
+30_segment_trees/
+
+README.md
 ```
 
-Each folder contains:
-
-- Clean Java implementations  
-- Proper comments  
-- Structured naming (PascalCase)  
-- Practice problems  
-- Progressive difficulty  
+</details>
 
 ---
 
-# 🧪 Sample Code
+# 🚀 Getting Started
 
-### Check Even or Odd (Bitwise)
-
-```java
-public static boolean isEven(int num) {
-    return (num & 1) == 0;
-}
-```
-
-### Get i-th Bit
-
-```java
-public static int getIthBit(int num, int i) {
-    return (num >> i) & 1;
-}
-```
-
----
-
-# 🛠 How To Use
-
-### 1️⃣ Clone Repository
+### Clone the repository
 
 ```bash
 git clone https://github.com/PavithraSharma14/java-core-to-advanced.git
+```
+
+### Navigate to the project
+
+```bash
 cd java-core-to-advanced
 ```
 
-### 2️⃣ Open in IDE
+### Open using your preferred IDE
 
-Recommended:
-- IntelliJ IDEA
-- VS Code
-- Eclipse
+Recommended IDEs:
 
-### 3️⃣ Follow the Roadmap Order
+* IntelliJ IDEA
+* Visual Studio Code
+* Eclipse
 
-Start from:
+---
+
+# 🎯 Recommended Learning Order
+
+Follow the repository sequentially.
+
+```text
+Basics
+      ↓
+Variables
+      ↓
+Operators
+      ↓
+Conditions
+      ↓
+Loops
+      ↓
+Functions
+      ↓
+Arrays
+      ↓
+Sorting
+      ↓
+Strings
+      ↓
+Bit Manipulation
+      ↓
+OOP
+      ↓
+Recursion
+      ↓
+Divide & Conquer
+      ↓
+Time & Space Complexity
+      ↓
+Advanced Data Structures
 ```
-01-basics → move sequentially
-```
 
-Do not skip complexity + recursion before advanced topics.
+Avoid skipping topics, as each one builds on the previous concepts.
 
 ---
 
-# 📈 Progress Tracker
+# 💡 Learning Strategy
 
-| Stage | Topic | Status |
-|-------|--------|--------|
-| 1 | Basics | ✅ Completed |
-| 2 | OOP | ✅ Completed |
-| 3 | Time & Space | ⏳ Planned |
-| 4 | Recursion | ⏳ Planned |
-| 5 | DSA | ⏳ In Progress |
+To maximize your understanding:
 
----
+1. Read the concept.
+2. Study the implementation.
+3. Run the program.
+4. Modify the code.
+5. Solve the practice problems.
+6. Analyze the Time & Space Complexity.
+7. Reimplement without looking at the solution.
 
-# 🎯 Learning Strategy
-
-To maximize results:
-
-1. Read the concept
-2. Run the code
-3. Modify it
-4. Solve practice problems
-5. Re-implement without looking
-6. Track your complexity
-
-Consistency > Speed  
-Structure > Random Learning  
+> **Consistency beats intensity. Learn one concept thoroughly before moving to the next.**
 
 ---
 
-# 💼 Why This Repository Stands Out
+# 📌 Upcoming Topics
 
-- Structured learning path  
-- Interview-focused progression  
-- Clean naming conventions  
-- Progressive module system  
-- Covers fundamentals to advanced DSA  
+* ⏳ ArrayList
+* ⏳ Linked List
+* ⏳ Stack
+* ⏳ Queue
+* ⏳ Hashing
+* ⏳ Trees
+* ⏳ BST
+* ⏳ Heaps
+* ⏳ Greedy Algorithms
+* ⏳ Backtracking
+* ⏳ Graphs
+* ⏳ Dynamic Programming
+* ⏳ Tries
+* ⏳ Segment Trees
 
 ---
 
@@ -248,27 +325,28 @@ Structure > Random Learning
 
 Contributions are welcome.
 
-Guidelines:
-- Follow folder structure
-- Maintain clean code
-- Use PascalCase for file names
-- Add meaningful comments
-- Keep logic readable
+Please follow these guidelines:
+
+* Maintain the existing folder structure.
+* Use PascalCase for Java class names.
+* Write clean and readable code.
+* Add meaningful comments.
+* Include Time & Space Complexity wherever applicable.
 
 ---
 
 # 📜 License
 
-MIT License
+This project is licensed under the **MIT License**.
 
 ---
 
-## ⭐ If You Find This Helpful
+# ⭐ Support the Repository
 
-If this repository helped you understand Java concepts, consider giving it a ⭐.
+If you found this repository helpful for learning Java or preparing for coding interviews, consider giving it a **⭐ Star**.
 
-It helps the repository reach more learners.
+Your support motivates me to continue building high-quality educational content for the developer community.
 
+Happy Coding! 🚀
 
-
-
+**— Pavithra Sharma**
