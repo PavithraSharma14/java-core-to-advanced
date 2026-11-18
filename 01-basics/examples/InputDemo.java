@@ -7,11 +7,9 @@ class InputDemo {
         Scanner sc = new Scanner(System.in); // create scanner object
 
         System.out.print("Enter your name: ");
-        String name = sc.nextLine(); // reads a full line
-
+        String name = sc.nextLine();
         System.out.print("Enter your age: ");
-        int age = sc.nextInt(); // reads an integer
-
+        int age = sc.nextInt();
         System.out.println("Hello " + name + "! Your age is " + age);
 
         sc.close(); // good practice
